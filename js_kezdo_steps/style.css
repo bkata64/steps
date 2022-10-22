@@ -1,0 +1,14 @@
+body{    
+    margin: auto;
+    background-color: darkSalmon;
+	font-size: 1.2rem;
+	color: brown;
+}
+
+#valasz{
+    font-size: 36px;
+}
+
+input,button {
+	font-size: 1.2rem;
+}
